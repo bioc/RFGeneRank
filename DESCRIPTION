@@ -1,6 +1,6 @@
 Package: RFGeneRank
 Title: RFGeneRank: Cross-validated Stable Predictive Gene Ranking for Transcriptomics
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Abdulaziz", "Albeshri",
            email = "a.z.a1410@hotmail.com",
